@@ -98,7 +98,7 @@ const {
  *      responses:
  *        200:
  *          description: The hospital description by id
- *          contents:
+ *          content:
  *            application/json:
  *              schema:
  *                $ref: '#/components/schemas/Hospital'
